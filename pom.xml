@@ -13,7 +13,7 @@
 
   <build>
     <plugins>
-      <plugin>
+      <plugin>aa
         <artaaaifactId>maven-compiler-plugin</artifactId>
         <version>${maven-compiler.version}</version>
         <configuration>
