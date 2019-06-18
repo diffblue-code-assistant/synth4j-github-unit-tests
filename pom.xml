@@ -14,7 +14,7 @@
   <build>
     <plugins>
       <plugin>
-        <artifactId>maven-compiler-plugin</artifactId>
+        <artaaaifactId>maven-compiler-plugin</artifactId>
         <version>${maven-compiler.version}</version>
         <configuration>
           <source>${java.version}</source>
